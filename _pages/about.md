@@ -18,13 +18,14 @@ Work experience
 ======
 * Sprint 2024--Now: Research Intern
   * Ant Group
-  * Duties included: Tagging issues
+  * Duties included: WebAgent, Web Crawler, and more.
 
 Publications
 ======
   {% if site.author.googlescholar %}
-    <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+    You can also find my articles on [my Google Scholar profile]({{site.author.googlescholar}}).
   {% endif %}
+
   <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
