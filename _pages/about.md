@@ -7,27 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
+Mo Guozhao 莫国钊
+======
+I am currently a master student in the [Chinese Information Processing Laboratory](https://www.icip.org.cn/zh/homepage/) at the Institute of Software, Chinese Academy of Sciences, under the Supervision of Associate Professor [Yaojie Lu](https://luyaojie.github.io/) and Professor [Ben He](https://www.icip.org.cn/team/heben/).
+
+I study agents.
 
 Education
 ======
-* M.S. in SCST, University of Chinese Academy of Sciences, 2024-2027 (expected)
-* B.S. in CIEE, China Agricultural University, 2020-2024
-
-Work experience
-======
-* Sprint 2024--Now: Research Intern
-  * Ant Group
-  * Duties included: WebAgent, Web Crawler, and more.
+* M.S. in Computer Applied Technology, University of Chinese Academy of Sciences, 2024-2027 (expected)
+* B.S. in Computer Science and Technology, China Agricultural University, 2020-2024
 
 Publications
 ======
-  You can also find my articles on [my Google Scholar profile]({{site.author.googlescholar}}).
+  You can find my articles on [my Google Scholar profile]({{site.author.googlescholar}}).
 
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
+Work experience
 ======
-* Currently signed in to 43 different slack teams -->
+* Spring 2024--Now: Research Intern
+  * Ant Group
+  * Duties included: WebAgent, Web Crawler, and more.
