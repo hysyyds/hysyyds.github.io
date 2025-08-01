@@ -22,9 +22,7 @@ Work experience
 
 Publications
 ======
-  {% if site.author.googlescholar %}
-    You can also find my articles on [my Google Scholar profile]({{site.author.googlescholar}}).
-  {% endif %}
+  You can also find my articles on [my Google Scholar profile]({{site.author.googlescholar}}).
 
   <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
